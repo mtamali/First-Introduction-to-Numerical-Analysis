@@ -1,4 +1,4 @@
 title: Introduction to Numerical Analysis
-description: A description of the course.
-programming_language: python
+description: This course aims in its first look, to give students ability to understand magic ways to manipulate numbers in their different forms.
+programming_language: Python
 from: python-base-prod:21
