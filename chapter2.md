@@ -12,5 +12,3 @@ xp: 50
 skills: 2
 video_link: https://www.youtube.com/watch?v=_eX0xNqrF7s
 ```
-
-
