@@ -5,7 +5,7 @@ description: >-
 
 
 ---
-## <<<Introduction>>>
+## Introduction
 ```yaml
 type: VideoExercise
 key: 7bc8653a68
