@@ -1,4 +1,4 @@
-# **Course Title**<br/>by **Course Author**
+# **First Introduction to Numerical Analysis**<br/>by **TAMALI Mohammed**
 
 Specs deadline: YYYY-MM-DD
 
